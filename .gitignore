@@ -1,2 +1,4 @@
 .cpcache/
 .playwright-mcp/
+.idea/
+.DS_Store
